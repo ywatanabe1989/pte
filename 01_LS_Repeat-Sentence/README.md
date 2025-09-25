@@ -1,7 +1,7 @@
 <!-- ---
-!-- Timestamp: 2025-09-25 22:55:31
+!-- Timestamp: 2025-09-25 23:04:42
 !-- Author: ywatanabe
-!-- File: /home/ywatanabe/proj/pte/01_LS_repeat-sentence/README.md
+!-- File: /home/ywatanabe/proj/pte/01_LS_Repeat-Sentence/README.md
 !-- --- -->
 
 # Repeat (Long) Sentence
